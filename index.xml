@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ng Song Guan</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Ng Song Guan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.example.com/experience/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/experience/</guid>
+      <description>Internships  Millennium Management Information Security Intern | Incoming
+  GovTech Cloud Security Intern | May 2020 - Aug 2020
+ Developed a vulnerable AWS environment for internal team usage. Environment included a vulnerable web application with a react frontend, node/postgres backend hosted on AWS Automated deployment of the environment using terraform scripts. Made open source contributions to cloud security tools (Pacu, Cloudgoat). Reported multiple issues to GovTech Vulnerability Disclosure Program (VDP) on hackerone, including several high severity issues.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.example.com/others/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/others/</guid>
+      <description>Achievements  GovTech Stack the Flags CTF 2020 (3rd place Category 2)
+Jane Street Electronic Trading Challenge 2020 @ NUS (Overall 1st)
+Top 10 in GovTech VDP @ hackerone (as of 2021)
+DEF CON 28 Cloud Village CTF (3rd Place)
+ Projects  Loanus
+Android app with Firebase backend  | May 2020 - July 2020
+ Developed an app for loaning and sharing of items between NUS students. Supports CRUD operations on listings, tracking of loan transactions, and has chat functionality.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>I am an undergraduate at National University of Singapore (NUS) studying computer science. My interest lies in information security where I have been involved in the offensive side through bug bounty and red teaming research. Currently, I&amp;rsquo;m looking into cloud security.
+In my free time, I enjoy reading and exploring new technologies.
+Github | Linkedin | Twitter | Medium | Hackerone</description>
+    </item>
+    
+  </channel>
+</rss>
